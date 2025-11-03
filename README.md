@@ -56,37 +56,7 @@ Deepfake_detection_using_deep_learning
 |model_91_acc_80_frames_final_data.pt | 6000 | 80 | 91.49818 |
 |model_93_acc_100_frames_final_data.pt| 6000 | 100 | 93.58794|
 
-## 6. Contributors
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/abhijitjadhav1998/"><img src="https://avatars.githubusercontent.com/u/38549908?v=4?s=100" width="100px;" alt="Abhijit Jadhav"/><br /><sub><b>Abhijit Jadhav</b></sub></a><br /><a href="#projectManagement-abhijitjadhav1998" title="Project Management">📆</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://vthonte.vercel.app/"><img src="https://avatars.githubusercontent.com/u/43621438?v=4?s=100" width="100px;" alt="Vishwesh Thonte"/><br /><sub><b>Vishwesh Thonte</b></sub></a><br /><a href="#maintenance-vthonte" title="Maintenance">🚧</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-#### 6.1 Offline Contributors
-   1. Jay Patel
-   2. Hitendra Patil
-   3. Abhishek Patange
-   
 ## 7. License
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
